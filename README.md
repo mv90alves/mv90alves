@@ -70,7 +70,7 @@ Desenvolvimento web ágil focado em **flow state**. Utilizo ferramentas leves pa
   <a href="https://github.com/mv90alves" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:mv90alves@gmail.com">
+  <a href="https://mail.google.com/mail/mv90alves">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
